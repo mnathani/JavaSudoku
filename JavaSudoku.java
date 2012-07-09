@@ -1,3 +1,7 @@
+# Program Name:	 		JavaSudoku
+# Author: 		 	 	Mansoor Nathani
+# Email:			 	mnathani@gmail.com
+# Date Authored:		2011-11-03
 import java.util.Scanner;
 
 public class JavaSudoku
