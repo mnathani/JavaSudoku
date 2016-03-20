@@ -89,3 +89,12 @@ Final Soduku Display:
  2 1 5  3 8 6  9 4 7
  
  7 6 8  5 4 9  3 2 1
+
+
+At present, this program is unable to solve Sudoku puzzles of a certain difficult. For example input-hard.txt
+
+Theory:
+
+One strategy to solve such Sudoku puzzles is to follow normal solving strategies and making a guess when only 2 numbers can possibly occupy a spot.
+
+Either the puzzle will get solved, or some contradictions will arise. If contradictions arise, then it is known that the guess is wrong and the other value is correct.
